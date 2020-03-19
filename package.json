@@ -11,5 +11,8 @@
 	"framer": {
 		"id": "46d88b91-b540-4743-9878-cfacedb33d80"
 	},
-	"author": "Marc Farssac"
+	"author": "Marc Farssac",
+	"dependencies": {
+		"@framer/graz.android-kit": "^1.1.0"
+	}
 }
